@@ -5,7 +5,7 @@ Updated version of Amy Worall's [eos playground](https://github.com/amyworrall/e
 Tested and working on teensy 3.x boards.
 
 compared to the original there are some changes around `yield.cpp` and an additional edit in teensyduino's boardstack regarding `print.cpp`
-I highly recommend watching [their video on](https://youtu.be/2jeyQjmPyMM) the process to understand what is happening behind the scenes.
+I highly recommend watching [their video](https://youtu.be/2jeyQjmPyMM) on the process to understand what is happening behind the scenes.
 
 ## Installation:
 
